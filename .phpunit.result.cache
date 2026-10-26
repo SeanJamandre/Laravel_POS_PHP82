@@ -1,0 +1,1 @@
+{"version":2,"defects":[],"times":{"Tests\\Feature\\PagesTest::test_all_pages_and_navigation_work":0.283,"Tests\\Feature\\PagesTest::test_five_customers_are_rendered":0.004,"Tests\\Feature\\PagesTest::test_five_users_are_rendered":0.004,"Tests\\Feature\\PagesTest::test_unknown_page_is_not_found":0.097}}
